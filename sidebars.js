@@ -33,6 +33,13 @@ module.exports = {
         },
       ],
     },
-
+    {
+      type: "category",
+      label: "笔记",
+      collapsed: false,
+      items: [
+        '阶段目标',
+      ],
+    },
   ],
 };
