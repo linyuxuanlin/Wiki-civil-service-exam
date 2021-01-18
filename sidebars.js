@@ -21,6 +21,16 @@ module.exports = {
           label: 'kuriv/civil-service-exam', 
           href: 'https://github.com/kuriv/civil-service-exam'
         },
+        {
+          type: 'link',
+          label: 'coder2gwy/coder2gwy', 
+          href: 'https://github.com/coder2gwy/coder2gwy'
+        },
+        {
+          type: 'link',
+          label: '行测如何提升做题速度？', 
+          href: 'https://www.zhihu.com/question/266860999/answer/613142901'
+        },
       ],
     },
 
