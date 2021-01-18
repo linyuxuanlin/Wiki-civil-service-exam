@@ -8,8 +8,8 @@ module.exports = {
       items: [
         {
           type: 'link',
-          label: 'Custom Label', // The label that should be displayed (string).
-          href: 'https://example.com' // The target URL (string).
+          label: '公务员 & 事业单位结构化面试经验分享（详细）', 
+          href: 'https://www.douban.com/note/785769898/'
         }
       ],
     },
