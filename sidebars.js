@@ -39,6 +39,7 @@ module.exports = {
       collapsed: false,
       items: [
         '阶段目标',
+        '问题收集',
       ],
     },
   ],
